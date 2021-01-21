@@ -118,7 +118,7 @@ section {position:relative;z-index:1;}
 .col {padding:10px;box-sizing:border-box;}
 .col-4 {width:376px;}
 
-header {position:fixed;width:100%;float:left;padding:72px 0 30px;margin-bottom:92px;transition:all 0.5s;z-index:10;background:#0e0e0d;}
+header {width:100%;float:left;padding:72px 0 30px;margin-bottom:75px;transition:all 0.5s;z-index:10;background:#0e0e0d;}
 header + section {padding-top:230px;}
 header .container {width:1168px;padding:0 0 20px;}
 .logo {color:#95713a;font-weight:bold;font-size:30px;letter-spacing:-3px;z-index:2;position:relative;}
